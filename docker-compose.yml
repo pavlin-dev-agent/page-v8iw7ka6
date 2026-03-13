@@ -1,0 +1,5 @@
+services:
+  app:
+    build: .
+    container_name: page-v8iw7ka6
+    restart: unless-stopped

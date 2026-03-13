@@ -1,0 +1,8 @@
+{
+  "name": "page-v8iw7ka6",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "start": "node index.js"
+  }
+}
